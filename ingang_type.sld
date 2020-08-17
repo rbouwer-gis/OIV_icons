@@ -17,10 +17,7 @@
               </ExternalGraphic>
               <Size>4</Size>
               <Rotation>
-                <ogc:Add>
-                  <ogc:PropertyName>rotatie</ogc:PropertyName>
-                  <ogc:Literal>-90</ogc:Literal>
-                </ogc:Add>
+                <ogc:PropertyName>rotatie</ogc:PropertyName>
               </Rotation>
             </Graphic>
           </PointSymbolizer>
