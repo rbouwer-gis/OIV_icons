@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="775.60504"
-   height="775.54199"
-   viewBox="0 0 581.7038 581.65652"
+   width="125"
+   height="125"
+   viewBox="0 0 93.750003 93.750004"
    id="svg8"
-   sodipodi:docname="GHS07_hazardous_substances.svg"
-   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="7.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/media/juhele/data_2TB/_GRAFIKA/GHS hazard symbols/GHS07_hazardous_substances.png"
    inkscape:export-xdpi="99.027519"
    inkscape:export-ydpi="99.027519">
@@ -88,7 +88,7 @@ https://commons.wikimedia.org/wiki/GHS_hazard_symbols</dc:description>
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1140"
+     inkscape:window-height="1017"
      id="namedview10"
      showgrid="false"
      units="px"
@@ -97,15 +97,15 @@ https://commons.wikimedia.org/wiki/GHS_hazard_symbols</dc:description>
      fit-margin-bottom="10"
      fit-margin-right="10"
      inkscape:zoom="0.8646487"
-     inkscape:cx="475.95618"
+     inkscape:cx="281.07935"
      inkscape:cy="455.06876"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <g
      id="g836"
-     transform="translate(1.1646037,-1.0446272)">
+     transform="matrix(0.08602378,0,0,0.08603095,21.983858,21.954267)">
     <path
        id="path819"
        style="fill:#ffffff;stroke:none"
