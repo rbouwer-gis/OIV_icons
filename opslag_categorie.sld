@@ -12,7 +12,7 @@
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="https://baasgeo.github.io/imroi_icons/opslag_categorie/${categorie}.svg" xlink:type="simple"/>
+                <OnlineResource xlink:href="https://baasgeo.github.io/imroi_icons/opslag_categorie/${ghs_categorie}.svg" xlink:type="simple"/>
                 <Format>image/svg</Format>
               </ExternalGraphic>
               <Size>7</Size>
