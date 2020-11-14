@@ -12,7 +12,7 @@
         htmlString += '<table class="table"><tr><th>Preview</th><th>SLD</th></tr>';
         for (let file of data) {
           htmlString += `<tr><td><a href="${file.path}">${file.name}</a></td>`;
-          htmlString += `<td><a href="https://github.com/baasgeo/imroi_icons/blob/master/${file.name}.sld">${file.name}.sld</a></td></tr>`;
+          htmlString += `<td><a href="https://github.com/rbouwer-gis/OIV_icons/blob/master/${file.name}.sld">${file.name}.sld</a></td></tr>`;
         }
         htmlString += '</table>';
         document.getElementsByTagName('body')[0].innerHTML = htmlString;
